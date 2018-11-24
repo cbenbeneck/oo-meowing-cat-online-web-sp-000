@@ -5,11 +5,8 @@ class Cat
   
     def Cat.meow 
     puts "meow!"
-    end
-
-  def Cat.meow 
-    puts "meow!"
-  end 
+  end
+  
 end 
 
   
