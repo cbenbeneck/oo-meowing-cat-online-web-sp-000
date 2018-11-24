@@ -8,6 +8,4 @@ def Cat.meow
   puts "meow!"
 end 
 
-
-puts Cat  
   
